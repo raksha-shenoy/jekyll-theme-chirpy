@@ -23,10 +23,11 @@ theme: jekyll-theme-chirpy
 
 # # Fill in the protocol & hostname for your site.
 # # e.g. 'https://username.github.io', note that it does not end with a '/'.
- url: "https://raksha-shenoy.github.io/jekyll-theme-chirpy/"
+aux_links:
+       Template Repository: "https://github.com/raksha-shenoy/jekyll-theme-chirpy.git"
 
- github:
-   username: raksha-shenoy # change to your github username
+ #github:
+  # username: raksha-shenoy # change to your github username
 
 # twitter:
 #   username: twitter_username # change to your twitter username
